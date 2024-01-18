@@ -1,7 +1,7 @@
 Desenvolvimento do jogo de cartas Rouba Montes na linguagem C. Prática de conceitos vistos acerca de Algoritmos e Estruturas
 de Dados II (estruturas, filas, pilhas, listas, funções, métodos de ordenação, análise de complexidade)
 
---> Objetivo principal do jogo e algumas regras 
+--> Objetivo principal do jogo e regras 
 
 Inicialmente as cartas são embaralhadas e colocadas em uma pilha na mesa de jogo,
 chamada de pilha de compra, com face voltada para baixo. Durante o jogo, cada jogador
